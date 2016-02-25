@@ -76,7 +76,7 @@ npm install @pod-point-open-source/react-native-maps --save
 Require the UI component in the component you're wanting to display a map in:
 
 ```javascript
-import { GoogleMap } from '@pod-point-open-source/react-native-maps';
+import GoogleMap from '@pod-point-open-source/react-native-maps';
 ```
 
 Include the following JSX in your render method:
