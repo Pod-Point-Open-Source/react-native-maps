@@ -1,3 +1,5 @@
+**This repo is now deprecated. Please use [airbnb/react-native-maps](https://github.com/airbnb/react-native-maps) instead.**
+
 # React Native Mapping Integration
 
 This package provides a React Native compatible, Google Maps UI component which runs on iOS and Android using the same
